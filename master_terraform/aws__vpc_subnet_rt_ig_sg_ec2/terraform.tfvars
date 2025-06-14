@@ -1,0 +1,6 @@
+vpc_cidr_block = "10.0.0.0/16"
+web_subnet     = "10.0.0.0/24"
+subnet_zone    = "us-east-1c"
+main_vpc_name  = "Main"
+my_public_ip   = "3.95.237.199"
+ssh_public_key = "/home/ubuntu/.ssh/test_rsa.pub"
